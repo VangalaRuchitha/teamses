@@ -1,0 +1,6 @@
+- */readme.txt/* : https://github.com/VangalaRuchitha/Team-SE-s/blob/main/Readme.txt
+- */meeting-minutes/*: Logs and minutes from team meetings.
+  - */meeting1.txt/* : https://github.com/VangalaRuchitha/Team-SE-s/blob/main/Docs/Meeting-Minutes/Meeting1
+- */project-reports/*: All the periodic and final project reports.
+  - */deliverable1.docx/* : https://github.com/VangalaRuchitha/Team-SE-s/blob/main/Docs/Project-Reports/Dileverable%201.docx
+  - */Presentation SE.pptx/* : https://github.com/VangalaRuchitha/Team-SE-s/blob/main/Docs/Project-Reports/Presentation%20SE.pptx
